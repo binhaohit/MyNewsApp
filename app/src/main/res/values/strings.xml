@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNews</string>
+    <string name="menu_about">About</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_wangyi">WangYi</string>
+    <string name="menu_zhihu">ZhiHu</string>
+    <string name="tab_zhihu">zhihu</string>
+    <string name="tab_wangyi">Wangyi</string>
+    <string name="tab_toutiao">Toutiao</string>
+</resources>
